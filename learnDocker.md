@@ -1,6 +1,6 @@
 # Learning Docker
 
-##Docker Basics
+## Docker Basics
 * Starting a docker :-
 	`docker run, docker start, docker pull`<br>
 	`docker run -d -p 6000:6321`<br>
