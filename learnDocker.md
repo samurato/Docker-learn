@@ -20,7 +20,7 @@
 This runs the docker in detached mode exposing the hosts port 6001 to container 6023 with name new-samrat running redis 4.0
 
 ## Docker Troubleshooting
-###Spawning Docker Shell 
+### Spawning Docker Shell 
 `docker exec -it asd34123rarrasf /bin/bash` :- gives you a shell of the container.
 
 Name or id both can be used to get the container's shell.
